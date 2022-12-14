@@ -1,0 +1,13 @@
+D:\C#Database\AsgcSharp\AsgcSharp\bin\Debug\AsgcSharp.exe.config
+D:\C#Database\AsgcSharp\AsgcSharp\bin\Debug\AsgcSharp.exe
+D:\C#Database\AsgcSharp\AsgcSharp\bin\Debug\AsgcSharp.pdb
+D:\C#Database\AsgcSharp\AsgcSharp\obj\Debug\AsgcSharp.csproj.AssemblyReference.cache
+D:\C#Database\AsgcSharp\AsgcSharp\obj\Debug\AsgcSharp.csproj.SuggestedBindingRedirects.cache
+D:\C#Database\AsgcSharp\AsgcSharp\obj\Debug\AsgcSharp.Form1.resources
+D:\C#Database\AsgcSharp\AsgcSharp\obj\Debug\AsgcSharp.Properties.Resources.resources
+D:\C#Database\AsgcSharp\AsgcSharp\obj\Debug\AsgcSharp.csproj.GenerateResource.cache
+D:\C#Database\AsgcSharp\AsgcSharp\obj\Debug\AsgcSharp.csproj.CoreCompileInputs.cache
+D:\C#Database\AsgcSharp\AsgcSharp\obj\Debug\AsgcSharp.exe
+D:\C#Database\AsgcSharp\AsgcSharp\obj\Debug\AsgcSharp.pdb
+D:\C#Database\AsgcSharp\AsgcSharp\bin\Debug\Database1.mdf
+D:\C#Database\AsgcSharp\AsgcSharp\bin\Debug\Database1_log.ldf
